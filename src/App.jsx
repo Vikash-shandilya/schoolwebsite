@@ -71,49 +71,49 @@ const App = () => {
       position: 'Principal',
       subject: 'Educational Leadership',
       qualification: 'M.Ed., B.Ed.',
-      image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=300'
+      image: 'https://images.unsplash.com/photo-15600097-0b93528c311a?w=300'
     },
     {
       name: 'Pallavi Chaturvedi',
       position: 'PGT Biology & Coordinator',
       subject: 'Biology',
       qualification: 'M.Sc. Biology',
-      image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300'
+      image: 'https://images.unsplash.com/photo-15736359142-b8d87734a5a2?w=300'
     },
     {
       name: 'Vikash Kumar Jha',
       position: 'PGT Computer Science',
       subject: 'Computer Science',
       qualification: 'M.Tech. Computer Science',
-      image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300'
+      image: 'https://images.unsplash.com/photo-14720945785-5658abf4ff4e?w=300'
     },
     {
       name: 'Pritesh Gupta',
       position: 'PGT English',
       subject: 'English Literature',
       qualification: 'M.A. English',
-      image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=300'
+      image: 'https://images.unsplash.com/photo-15190860753-af0119f7cbe7?w=300'
     },
     {
-      name: 'Gitanjali Sharma',
+      name: 'Gitanjali Mam',
       position: 'PGT English',
       subject: 'English Language & Literature',
       qualification: 'M.A. English',
-      image: 'https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=300'
+      image: 'https://images.unsplash.com/photo-15947448039-e58b31de8bf5?w=300'
     },
     {
       name: 'Rahul Kumar',
       position: 'PGT Accountancy',
       subject: 'Accountancy & Business',
       qualification: 'M.Com., B.Ed.',
-      image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300'
+      image: 'https://images.unsplash.com/photo-15048767791-00dcc994a43e?w=300'
     },
     {
       name: 'Mr. Abhishek Singh',
       position: 'PGT Economics',
       subject: 'Economics',
       qualification: 'M.A. Economics',
-      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300'
+      image: 'https://images.unsplash.com/photo-15070211169-0a1dd7228f2d?w=300'
     }
   ];
 
