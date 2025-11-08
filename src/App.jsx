@@ -752,7 +752,7 @@ const App = () => {
                 <MapPin className="w-6 h-6 text-blue-600 mt-1" />
                 <div>
                   <h4 className="font-semibold">Address</h4>
-                  <p className="text-gray-700">123 Education Boulevard, Knowledge Park<br />Metropolitan City, State 12345</p>
+                  <p className="text-gray-700">Allegiance academy kukshi<br />dhnora roadState 12345</p>
                 </div>
               </div>
               
@@ -760,7 +760,7 @@ const App = () => {
                 <Phone className="w-6 h-6 text-blue-600 mt-1" />
                 <div>
                   <h4 className="font-semibold">Phone</h4>
-                  <p className="text-gray-700">+1 (555) 123-4567<br />+1 (555) 123-4568</p>
+                  <p className="text-gray-700">935547567<br />86868787888</p>
                 </div>
               </div>
               
