@@ -844,7 +844,7 @@ const App = () => {
         <div className="text-center">
           <MapPin className="w-16 h-16 text-blue-600 mx-auto mb-4" />
           <p className="text-gray-600">Interactive Map Location</p>
-          <p className="text-sm text-gray-500 mt-2">123 Education Boulevard, Knowledge Park</p>
+          <p className="text-sm text-gray-500 mt-2">Allegiance academy kukshi road Dhnora </p>
         </div>
       </div>
     </div>
