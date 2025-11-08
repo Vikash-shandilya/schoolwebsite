@@ -46,7 +46,7 @@ const AllegianceAcademy = () => {
   const newsEvents = [
     {
       id: 1,
-      title: 'Annual Science Fair 2025',
+      title: 'Annual Club Exibition',
       date: 'March 15, 2025',
       category: 'Events',
       excerpt: 'Students showcase innovative projects blending science and technology.',
@@ -55,7 +55,7 @@ const AllegianceAcademy = () => {
     {
       id: 2,
       title: 'Sports Day Championship',
-      date: 'February 28, 2025',
+      date: 'November  28, 2025',
       category: 'Events',
       excerpt: 'A day of athletic excellence and team spirit.',
       image: 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=400'
@@ -72,17 +72,17 @@ const AllegianceAcademy = () => {
 
   const faculty = [
     {
-      name: 'Dr. Sarah Mitchell',
+      name: 'Mr Abhishek Shrivastava',
       position: 'Principal',
       subject: 'Educational Leadership',
       qualification: 'Ph.D. in Education',
       image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300'
     },
     {
-      name: 'Mr. James Thompson',
-      position: 'Head of Science',
-      subject: 'Physics & Chemistry',
-      qualification: 'M.Sc. Physics',
+      name: 'Mrs Pallavi Chaturvedi',
+      position: 'PGT Biology',
+      subject: 'MS in Biology',
+      qualification: 'M.Sc. Biology',
       image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=300'
     },
     {
